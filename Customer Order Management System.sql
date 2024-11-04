@@ -1,4 +1,4 @@
--- SQL SUPPLY CHAIN QUESTIONERE 2
+-- SQL 
 -- SELECT, WHERE and JOINS... Queries
 
 	-- Retrieve all orders: Write a query to retrieve all orders placed in the last 30 days.
